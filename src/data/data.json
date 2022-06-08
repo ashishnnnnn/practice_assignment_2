@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "Solid Black Round Shirt",
+      "size": "small",
+      "brand": "Addidas",
+      "price": "640",
+      "img_src": "https://rukminim1.flixcart.com/image/460/552/kw2fki80/t-shirt/q/m/n/m-ha8512-adidas-original-imag8txsuqvszgmg.jpeg?q=50",
+      "gender": "male",
+      "id": "1"
+    },
+    {
+      "name": "Solid Red Round Shirt",
+      "size": "Medium",
+      "brand": "Addidas",
+      "price": "840",
+      "img_src": "https://rukminim1.flixcart.com/image/460/552/ktx9si80/t-shirt/g/9/p/m-ha8511-adidas-original-imag75msqzxfb7da.jpeg?q=50",
+      "gender": "male",
+      "id": "2"
+    },
+    {
+      "name": "Solid White Polo Shirt",
+      "size": "Large",
+      "brand": "Here&How",
+      "price": "840",
+      "img_src": "https://rukminim1.flixcart.com/image/460/552/l111lzk0/t-shirt/p/0/k/s-15609880-here-now-original-imagczgtqrzfsqpm.jpeg?q=50",
+      "gender": "male",
+      "id": "3"
+    },
+    {
+      "name": "Printed Black Polo Tshirt",
+      "size": "Medium",
+      "brand": "Here&How",
+      "price": "900",
+      "img_src": "https://rukminim1.flixcart.com/image/460/552/jsc3ssw0/t-shirt/j/t/k/s-6520257-here-now-original-imafdwpdrtkyuezg.jpeg?q=50",
+      "gender": "male",
+      "id": "4"
+    },
+    {
+      "name": "Printed Round Neck Tshirt",
+      "size": "Medium",
+      "brand": "Addidas",
+      "price": "1000",
+      "img_src": "https://rukminim1.flixcart.com/image/460/552/kmkxbww0/t-shirt/m/p/u/s-gm5190-adidas-original-imagfg58j47f3jfe.jpeg?q=50",
+      "gender": "female",
+      "id": "5"
+    },
+    {
+      "name": "Printed Round White Tshirt",
+      "size": "Large",
+      "brand": "Here&How",
+      "price": "750",
+      "img_src": "https://rukminim1.flixcart.com/image/460/552/kvzkosw0/t-shirt/p/v/0/xl-15313332-here-now-original-imag8rhdjt7wtqte.jpeg?q=50",
+      "gender": "female",
+      "id": "6"
+    }
+  ]
+}
